@@ -22,7 +22,7 @@
 
 /* Accent color, used to decorate the UI with colors. */
   --dplus-accent-color-hue: 265;
-  --dplus-accent-color-saturation: 100%;
+  --dplus-accent-color-saturation: 35%;
   --dplus-accent-color-lightness: 45%;
 
 /* Foreground color: For things like text and icons. */
